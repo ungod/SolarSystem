@@ -3,4 +3,4 @@ A course design in college when Junior, implement a simple solar system using Op
 
 Include (Radial Blur), (Motion Blur), (Multiple Texture) and so on.
 
-This is a old project long ago. 
+This is a old project long ago, i sorry about my mess code :)
